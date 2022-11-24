@@ -10,8 +10,6 @@ class Main {
         int b = sc.nextInt();
         int c = sc.nextInt();
         
-        // int sum = a + b + c ;
-
         System.out.println(a+b+c);
     }
 }
